@@ -33,6 +33,8 @@ Build by SQFMI x Beepy
 
 ## OS Images
 
+[Official OS image](https://github.com/ardangelo/beepy-gen/releases/)
+
 [postmarketOS wiki page for beepy](https://github.com/adamthiede/beepy-apkbuilds)
 
 [Alpine Linux package repo for beepy software](https://github.com/adamthiede/beepy-apkbuilds)
